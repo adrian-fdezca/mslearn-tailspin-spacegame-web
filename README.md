@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/testing-devops-101/Space%20Game%20-web%20-%20Pipeline/_apis/build/status/adrian-fdezca.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/testing-devops-101/Space%20Game%20-web%20-%20Pipeline/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
